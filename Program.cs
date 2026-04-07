@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-int ver1 = 10;
+﻿int ver1 = 10;
 int ver2 = 6;
 
 static int Penjumlahan(int var1, int var2)

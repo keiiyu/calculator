@@ -5,17 +5,14 @@ static int Penjumlahan(int var1, int var2)
 {
     return var1 + var2;
 }
-
 static int Pengurangan(int var1, int var2)
 {
     return var1 - var2;
 }
-
 static int Perkalian(int var1, int var2)
 {
     return var1 * var2;
 }
-
 static int Pembagian(int var1, int var2)
 {
     return var1 / var2;

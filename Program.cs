@@ -5,7 +5,7 @@ static int Penjumlahan(int var1, int var2)
 {
     return var1 + var2;
 }
-static int Pengurangan(int var1, int var2)
+static int Pengurangans(int var1, int var2)
 {
     return var1 - var2;
 }
